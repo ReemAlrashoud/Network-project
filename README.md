@@ -1,6 +1,6 @@
 # Network-project
 ### Project description
-The project idea is to create a chat application with a server and users to enable the users to chat with each other’s. the chat application has basic two components, server and client. A server is a computer program or a device that provides functionality for other programs or devices. In this project we implement a server that serve data to systems on a local area network (LAN). Clients on our application who want to chat with each other must connect to the same server and have same network.  Multiple clients can connect to server and send messages. Every message is broadcasted to every connected client. The application is so easy to use to everyone can use it. 
+The project idea is to `create a chat application` with a server and users to enable the users to chat with each other’s. the chat application has basic two components, server and client. A `server` is a computer program or a device that provides functionality for other programs or devices. In this project we implement a server that serve data to systems on a local area network (LAN). `Clients` on our application who want to chat with each other must connect to the same server and have same network.  Multiple clients can connect to server and send messages. Every message is broadcasted to every connected client. The application is so easy to use to everyone can use it. 
 
 
 ### Problems that I faced and solutions.

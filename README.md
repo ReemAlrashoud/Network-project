@@ -4,14 +4,14 @@ The project idea is to `create a chat application` with a server and users to en
 
 
 ### Problems that I faced and solutions.
-**P1:** How to connect multiple clients to the same chat and send messages in parallel?
+* **P1:** How to connect multiple clients to the same chat and send messages in parallel?
 
 Solution: by using threads.
 
-**P2:** How to make multiple devices connected to the same server?
+* **P2:** How to make multiple devices connected to the same server?
 
 Solution: by make all clients connect to the IP address of the computer that works as the server of the chat.
 
-**P3:** How to connect the GUI with other classes?
+* **P3:** How to connect the GUI with other classes?
 
 solution: By declaring and calling the class name of the GUI class.
